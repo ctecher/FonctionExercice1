@@ -11,8 +11,8 @@ namespace FonctionExercice1
         // déclarations globales
         static ...;
 
-        /// Saisie d’une réponse type O/N avec contrôle de saisie
-        static void ...
+        // Fonction de saisie d’une réponse type O/N avec contrôle de saisie
+        static void choix()
         {
             ...
         }
